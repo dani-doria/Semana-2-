@@ -1,0 +1,6 @@
+La terminal es importante porque permite organizar archivos de forma rápida y eficiente. 
+También facilita la ejecución de comandos directamente en el sistema.
+Es muy útil para desarrolladores porque mejora la productividad.
+Permite automatizar tareas repetitivas y trabajar con proyectos más grandes. 
+Además, ayuda a entender mejor la estructura del sistema. 
+Es una herramienta fundamental en el desarrollo de software moderno.
